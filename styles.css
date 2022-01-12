@@ -1,0 +1,24 @@
+/***************************TAG SELECTERS*******************/
+
+body{
+   background-color: #CEE5D0;
+}
+
+  hr{
+    color: #125D98;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+
+  }
+h1{
+  color: #63B4B8;
+}
+h2{
+  color: #63B4B8;
+}
+
+/*************************CLASS SELECTIONS*******************/
+
+
